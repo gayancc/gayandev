@@ -64,3 +64,22 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Next.js build output
+.next/
+out/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Vercel & tooling
+.vercel/
+.turbo/
+.swc/
+
+# Local env overrides
+.env*.local
+
+# OS files
+.DS_Store
+Thumbs.db
